@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145040587454",
+    "project_id": "doingly-ce3e7",
+    "storage_bucket": "doingly-ce3e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145040587454:android:c2c0053c78bb323e3dfcef",
+        "android_client_info": {
+          "package_name": "com.zeek1910.doingly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145040587454-8fsc8tf76lrs10lbalam5ea5oi8fsdc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeywd7lu-068pNDsQW9TNJ37ZcB5lIhDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145040587454-8fsc8tf76lrs10lbalam5ea5oi8fsdc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

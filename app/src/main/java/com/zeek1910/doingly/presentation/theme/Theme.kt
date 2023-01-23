@@ -1,4 +1,4 @@
-package com.zeek1910.doingly.ui.theme
+package com.zeek1910.doingly.presentation.theme
 
 import android.app.Activity
 import android.os.Build

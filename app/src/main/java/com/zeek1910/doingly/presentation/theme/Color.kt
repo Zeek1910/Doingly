@@ -1,4 +1,4 @@
-package com.zeek1910.doingly.ui.theme
+package com.zeek1910.doingly.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
